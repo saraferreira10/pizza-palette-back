@@ -1,5 +1,5 @@
 # 🍕 PizzaPalette API
-Um parágrafo da descrição do projeto vai aqui
+<a href="https://github.com/saraferreira10/pizza-palette-react-query">Acesse o Front End do projeto aqui :)</a>
 <br/>
 
 ## 🔧 Instalação
